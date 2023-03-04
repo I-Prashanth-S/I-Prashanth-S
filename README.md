@@ -6,7 +6,7 @@
 ---
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prashanth S Iyer!
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I+am a+ Computer Science Grad Student; at+the+University+of Pennsylvania.;I'm+into+Software Development+!.;I+love+working on+databases + and+ back-end development; I + am + also +interested+ in+ applying+ machine learning+in+back-end+and+cloud services.;" alt="Typing SVG" >
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hey+there,+I'm+Suhas.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I+am a+Computer Science Grad Student;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
 <p align="center">
   <br>
