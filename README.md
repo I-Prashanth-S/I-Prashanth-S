@@ -8,7 +8,7 @@
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I+am a+ Computer Science Grad Student;at+the+University+of Pennsylvania.;I'm+into+Software Development+!.;I+love+working on+databases + and+ back-end development; I + am + also +interested+ in+ applying+ machine learning+in+back-end+and+cloud services.;" alt="Typing SVG" >
 
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I'm+a+Computer+Science+Grad+Student;at+the+University+of Pennsylvania.;" alt="Typing SVG" >
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I'm+a+Computer+Science+Grad;at+the+University+of+Pennsylvania" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I'm+a+Computer+Science+Grad;at+the+University+of+Pennsylvania;I'm+into+Software+Development+!.; My+interests+lie+in+the+fields+of;" alt="Typing SVG" >
 
 
 <p align="center">
