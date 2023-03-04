@@ -15,7 +15,7 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" /> 
  
-  <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> -->
+  <!--<img src="https://komarev.com/ghpvc/?username=I-Prashanth-S" alt="https://github.com/I-Prashanth-S" /> -->
 </p>
 
 - &#128214; I’m currently learning Machine Learning.
@@ -49,7 +49,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasBRao&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7FF&currStreakNum=639E29)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-Prashanth-S&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7FF&currStreakNum=639E29)
 
 [![@suhasbrao's Holopin board](https://holopin.me/suhasbrao)](https://holopin.io/@suhasbrao)
 ---
