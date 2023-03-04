@@ -6,7 +6,7 @@
 ---
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prashanth S Iyer!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F734&width=435&lines=I'm+a+Computer+Science+Grad+student;At+the+Univeristy+of+Pennsylvania;I'm+into+Software+Development;My+areas+of+interest+include;Databases+and+Back-end+Development;Integration+of+Cloud+Services;Machine+Learning;And+any+intersection+of+these+fields" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F734&width=435&lines=I'm+a+Computer+Science+Grad+student;At+the+Univeristy+of+Pennsylvania;I'm+into+Software+Development;My+areas+of+interest+include;Databases+and+Back-end+Development;Deploying+cloud+solutions+using+AWS;Machine+Learning;And+any+intersection+of+these+fields" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=I-Prashanth-S) [![GitHub followers](https://img.shields.io/github/followers/I-Prashanth-S.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Darth-Kronos) 
 
