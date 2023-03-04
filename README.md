@@ -5,10 +5,7 @@
 
 ---
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prashanth S Iyer!
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I+am a+ Computer Science Grad Student;at+the+University+of Pennsylvania.;I'm+into+Software Development+!.;I+love+working on+databases + and+ back-end development; I + am + also +interested+ in+ applying+ machine learning+in+back-end+and+cloud services.;" alt="Typing SVG" >
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I'm+a+Computer+Science+Grad+Student;at+the+University+of Pennsylvania.;" alt="Typing SVG" >
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=I'm+a+Computer+Science+Grad;at+the+University+of+Pennsylvania;I'm+into+Software+Development+!; My+interests+lie+in;" alt="Typing SVG" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F734&width=435&lines=I'm+a+Computer+Science+Grad+student;At+the+Univeristy+of+Pennsylvania;I'm+into+Software+Development;My+areas+of+interest+include;Databases+and+Back-end+Development;Integration+of+Cloud+Services;Machine+Learning;And+any+intersection+of+these+fields" alt="Typing SVG" /></a>
 
 <p align="center">
