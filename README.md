@@ -53,22 +53,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-Prashanth-S&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7FF&currStreakNum=639E29)
 
-[![@suhasbrao's Holopin board](https://holopin.me/suhasbrao)](https://holopin.io/@suhasbrao)
 ---
 
 <h2  align="center">&#x1F4EC; Reach me on</h2>
 
 <p align = "center">  
-<a href="https://www.instagram.com/suhasbrao/">
-  <img
-    alt="Instagram"
-    src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
-    width = 35
-    height = 35
-   />
-</a>
 &emsp;
-<a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+<a href="mailto:prashanthshiv954@gmail.com?subject=Hello%20Ileri,%20From%20Github">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
     width = 35
@@ -76,17 +67,9 @@
  />
 </a>
 &emsp;
-<a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
+<a href="https://in.linkedin.com/in/prashanth-s-i?trk=profile-badge">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://www.quora.com/profile/Suhas-Rao-66">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/185/185976.png"
     width = 35
     height = 35   
  />
