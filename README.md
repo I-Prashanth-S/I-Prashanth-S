@@ -8,23 +8,23 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F734&width=435&lines=I'm+a+Computer+Science+Grad+student;At+the+Univeristy+of+Pennsylvania;I'm+into+Software+Development;My+areas+of+interest+include;Databases+and+Back-end+Development;Deploying+cloud+solutions+using+AWS;Machine+Learning;And+any+intersection+of+these+fields" alt="Typing SVG" /></a>
 
-![](https://komarev.com/ghpvc/?username=I-Prashanth-S) [![GitHub followers](https://img.shields.io/github/followers/I-Prashanth-S.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Darth-Kronos) 
+![](https://komarev.com/ghpvc/?username=I-Prashanth-S) [![GitHub followers](https://img.shields.io/github/followers/I-Prashanth-S.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/I-Prashanth-S) 
 
 <p align="center">
   <br>
-  I'm Suhas B, I love Programming.
-  I'm more of a self-learner who loves to learn from the Internet apart from classroom.
+  I'm Prashanth S Iyer.
+  I'm a Computer Science Grad student at the University of Pennsylvania.
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" /> 
+<!--   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" />  -->
  
   <!--<img src="https://komarev.com/ghpvc/?username=I-Prashanth-S" alt="https://github.com/I-Prashanth-S" /> -->
 </p>
 
-- &#128214; I’m currently learning Machine Learning.
+<!-- - &#128214; I’m currently learning Machine Learning.
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#128396; I'm a ***Pencil artist***.(Checkout my instagram profile below)
 - &#127936; I love playing ***Basketball***.
-- &#128526; I am ***super positive*** and I always look forward for new adventures around Tech.
+- &#128526; I am ***super positive*** and I always look forward for new adventures around Tech. -->
 
 
 <h2 align="center"> :student: Programming Languages</h2>
@@ -42,12 +42,6 @@
 
 ---
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?style=for-the-badge&color=orange&logo=jupyter&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
